@@ -1,0 +1,11 @@
+D:\.Net\Work\Student Result Processing\Student Result Processing\bin\Debug\Student Result Processing.exe.config
+D:\.Net\Work\Student Result Processing\Student Result Processing\bin\Debug\Student Result Processing.exe
+D:\.Net\Work\Student Result Processing\Student Result Processing\bin\Debug\Student Result Processing.pdb
+D:\.Net\Work\Student Result Processing\Student Result Processing\obj\Debug\Student Result Processing.csproj.AssemblyReference.cache
+D:\.Net\Work\Student Result Processing\Student Result Processing\obj\Debug\Student Result Processing.csproj.CoreCompileInputs.cache
+D:\.Net\Work\Student Result Processing\Student Result Processing\obj\Debug\Student Result Processing.exe
+D:\.Net\Work\Student Result Processing\Student Result Processing\obj\Debug\Student Result Processing.pdb
+D:\.Net\Work\Student Result Processing\Student Result Processing\obj\Debug\Student Result Processing.exe.config
+D:\.Net\Work\Student Result Processing\Student Result Processing\bin\Debug\Newtonsoft.Json.dll
+D:\.Net\Work\Student Result Processing\Student Result Processing\bin\Debug\Newtonsoft.Json.xml
+D:\.Net\Work\Student Result Processing\Student Result Processing\obj\Debug\Student .D5B93C87.Up2Date
